@@ -11,7 +11,7 @@
  "modified": "2020-03-06 11:38:05.789851",
  "modified_by": "Administrator",
  "module": "Custom Stock Reports",
- "name": "Production Planning Report",
+ "name": "Custom Production Planning Report",
  "owner": "Administrator",
  "prepared_report": 0,
  "ref_doctype": "Work Order",
